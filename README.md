@@ -1,0 +1,2 @@
+# autocheck
+check public test 
